@@ -1,3 +1,3 @@
 - 👋 Ola, sou Rian
-- Gosto do Back-end domino e estudo Python, SQL, JavaScript, HTML5, CSS3
-- Sempre em busca de novos desafios e oportunidades ⚡
+- Gosto do Back-end, domino e estudo Python, SQL, JavaScript, HTML5, CSS3
+- Sempre em busca de novos desafios e oportunidades. ⚡
