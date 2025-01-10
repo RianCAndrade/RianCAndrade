@@ -1,7 +1,7 @@
 ### Ola! Eu sou Rian Andrade 🖐🏻✨💪🏻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rian_thecoder?igsh=MXB2aGRjbmdxbzc5cw==)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rian-andrade-a64165275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rian-andrade-a64165275)
 
 ![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=RianCAndrade&show_icons=true&theme=)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RianCAndrade&langs_count=8)
