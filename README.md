@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rian_thecoder?igsh=MXB2aGRjbmdxbzc5cw==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rian-andrade-a64165275)
 
-![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=RianCAndrade&show_icons=true&theme=radical)
+![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=RianCAndrade&show_icons=true&theme=onedark)
 
 ## Tecnologias que eu uso no meu dia:
 
